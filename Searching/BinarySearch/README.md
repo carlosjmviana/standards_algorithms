@@ -16,9 +16,9 @@ in logarithmic time. Print the value index if it exists in the array.
 
 In each step, the search space reduces to half. 
 
-step 0:  $n$   
-step 1: $n \over 2$  
-step 2: $n \over 4$  
+step 1:  $n$   
+step 2: $n \over 2$  
+step 3: $n \over 4$  
 ...  
 step n:  1  
 
