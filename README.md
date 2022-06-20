@@ -1,2 +1,3 @@
-# standards_algorithms
-Standard Algorithms 
+# Standard Algorithms 
+
+* [Searching Algorithms](./Searching/README.md)
