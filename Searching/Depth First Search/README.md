@@ -49,3 +49,4 @@ We will represent the graph as an adjacency list
 
 # References
 * [1] - [Wikipedia.org - Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search)
+* [2] - [Techie Delight - Depth First Search](https://www.techiedelight.com/depth-first-search/)
