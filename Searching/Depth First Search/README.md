@@ -6,8 +6,6 @@ The graph below shows the order in which nodes are visited in DFS:
 
 [![](https://mermaid.ink/img/pako:eNpV0MkKwjAQBuBXCXP6Cxbcl97U1rrd9JhLMNEWukhND1L67qahFTK5DB__MEwaepRSUUCvSrwTdg95wUxtgYnnMd_32Q6Yel7PVvbAypUQWA-ysxIBM1cOwHKQ0EoMbFw5mrX_ZZGlEzB35QwsBomtXMzY2KWroUlH3WOMRpSrKhepNKc2nXDSicoVp8C0Uj1FnWlOvGhNtH5LoVUkU11WFDxF9lEjErUub9_iQYGuajWEwlSYn8v7VPsDS5BTNw)](https://mermaid.live/edit#pako:eNpV0MkKwjAQBuBXCXP6Cxbcl97U1rrd9JhLMNEWukhND1L67qahFTK5DB__MEwaepRSUUCvSrwTdg95wUxtgYnnMd_32Q6Yel7PVvbAypUQWA-ysxIBM1cOwHKQ0EoMbFw5mrX_ZZGlEzB35QwsBomtXMzY2KWroUlH3WOMRpSrKhepNKc2nXDSicoVp8C0Uj1FnWlOvGhNtH5LoVUkU11WFDxF9lEjErUub9_iQYGuajWEwlSYn8v7VPsDS5BTNw)
 
-## Problem Statement
-
 ## Pseudocode
 
 ### Recursive
@@ -46,7 +44,8 @@ We will represent the graph as an adjacency list
 [Iterative Version](./README.md)
 
 ### Recursive
-[Recursive Version](./dfs_recursive.go)
+* [Recursive Version](./dfs_recursive.go)
+* [Recursive Version with cyclic check](./dfs_recursive_with_cycle_check.go)
 
 # References
 * [1] - [Wikipedia.org - Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search)
